@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Task_9 {
 
     public static void main(String[] args) {

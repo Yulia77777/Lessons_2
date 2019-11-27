@@ -1,8 +1,6 @@
-import java.util.Arrays;
-
-public class Task_1 {
+public class Task_2 {
     public static void main(String[] args) {
-        for (int i=10; i<21; i++) {
+        for (int i = 3; i < 100; i = i + 3) {
             System.out.println(i);
         }
     }
